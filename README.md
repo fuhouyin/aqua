@@ -1,2 +1,3 @@
-# aqua
-脚手架
+## aqua
+
+Spring Boot + Mybatis Plus + JOOQ + Sa-Token
