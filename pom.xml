@@ -22,6 +22,7 @@
     </properties>
 
     <modules>
+        <module>admin</module>
         <module>engine</module>
         <module>persist</module>
         <module>rest-api</module>
